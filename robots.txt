@@ -1,3 +1,0 @@
-Disallow: /hpinc/
-Disallow: /aruba/
-Disallow: /hpe/
